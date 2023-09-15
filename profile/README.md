@@ -1,15 +1,15 @@
 ## Hi there 👋
 ### 🙋‍♀️ This organization will help you to have better understanding about Microservice App
-- ➡️ You can start from here: [https://github.com/devopsway/devops-project-manifest](https://github.com/microservice-app-payment/microservice-app-manifest-payment.git)
+- ➡️ You can start from here: https://github.com/microservice-app-payment/microservice-app-manifest-payment.git
 
 ### 🧱 Aplication repo
-- API: [https://github.com/devopsway/devops-project-infrastructure](https://github.com/microservice-app-payment/k8s-deployment.git)
+- API: https://github.com/microservice-app-payment/k8s-deployment.git
 ### 🏗️ Infrastructure
 - Cloud: **AWS**
-- Terraform code: [https://github.com/devopsway/devops-project-infrastructure](https://github.com/microservice-app-payment/k8s-deployment.git)
+- Terraform code: https://github.com/microservice-app-payment/k8s-deployment.git
 ### ⚙️ CICD
-- Jenkins install: [https://github.com/devopsway/devops-project-jenkins-pack](https://github.com/microservice-app-payment/k8s-deployment.git)
-- Pipeline repo: [https://github.com/devopsway/devops-project-cicd](https://github.com/microservice-app-payment/payment-project-cicd.git)
+- Jenkins install: https://github.com/microservice-app-payment/k8s-deployment.git
+- Pipeline repo: https://github.com/microservice-app-payment/payment-project-cicd.git
 <!--
 
 **Here are some ideas to get you started:**
