@@ -8,7 +8,7 @@
 - Cloud: **AWS**
 - Terraform code: https://github.com/microservice-app-payment/k8s-deployment.git
 ### ⚙️ CICD
-- Jenkins install: https://github.com/microservice-app-payment/k8s-deployment.git
+- Jenkins install: https://github.com/microservice-app-payment/payment-project-jenkins-pack.git
 - Pipeline repo: https://github.com/microservice-app-payment/payment-project-cicd.git
 <!--
 
